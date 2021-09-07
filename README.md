@@ -1,1 +1,1 @@
-# SoftUni-Programming-Basics-C-course
+My homeworks in SoftUni Programming Basics with CSharp course
